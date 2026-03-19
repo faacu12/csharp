@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\el9zF\\source\\repos\\faacu12\\csharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\el9zF\\source\\repos\\faacu12\\csharp\\ELEARNING\\GestionE-Learning\\UI\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ELEARNING\\GestionE-Learning\\UI\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\el9zF\\source\\repos\\faacu12\\csharp\\ELEARNING\\GestionE-Learning\\UI\\CREATE.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ELEARNING\\GestionE-Learning\\UI\\CREATE.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,25 +19,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\el9zF\\source\\repos\\faacu12\\csharp\\ELEARNING\\GestionE-Learning\\UI\\Form1.cs",
-              "RelativeDocumentMoniker": "ELEARNING\\GestionE-Learning\\UI\\Form1.cs",
-              "ToolTip": "C:\\Users\\el9zF\\source\\repos\\faacu12\\csharp\\ELEARNING\\GestionE-Learning\\UI\\Form1.cs",
-              "RelativeToolTip": "ELEARNING\\GestionE-Learning\\UI\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T20:36:45.523Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "CREATE.cs",
               "DocumentMoniker": "C:\\Users\\el9zF\\source\\repos\\faacu12\\csharp\\ELEARNING\\GestionE-Learning\\UI\\CREATE.cs",
               "RelativeDocumentMoniker": "ELEARNING\\GestionE-Learning\\UI\\CREATE.cs",
               "ToolTip": "C:\\Users\\el9zF\\source\\repos\\faacu12\\csharp\\ELEARNING\\GestionE-Learning\\UI\\CREATE.cs",
               "RelativeToolTip": "ELEARNING\\GestionE-Learning\\UI\\CREATE.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-19T16:50:46.737Z",
               "EditorCaption": ""
