@@ -34,11 +34,7 @@ namespace UI
 
         private void button1_Click_1(object sender, EventArgs e)
         {
-            MessageBox.Show(
-                $"Nombre='{txtNombre.Text}'\nApellido='{txtApellido.Text}'\nUser='{txtUser.Text}'\nPasswordLen={txtPassword.Text?.Length ?? 0}",
-                "DEBUG"
-            );
-
+            
             BE.Usuario u = new BE.Usuario();
             u.Nombre = txtNombre.Text;
             u.Apellido = txtApellido.Text;
@@ -48,7 +44,9 @@ namespace UI
             u.Activo = 1;
             u.Rol = txtRol.Text;
             int res = service.Insertar(u);
-            MessageBox.Show($"Resultado INSERT: {res}");
+            Form1 f = new Form1();
+            f.Show();
+            this.Hide();
         }
     }
 }

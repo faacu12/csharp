@@ -18,3 +18,23 @@ F:\EJERCICIOS POO\GestionE-Learning\UI\obj\Debug\UI.CREATE.resources
 F:\EJERCICIOS POO\GestionE-Learning\UI\bin\Debug\DAL.dll
 F:\EJERCICIOS POO\GestionE-Learning\UI\bin\Debug\DAL.pdb
 F:\EJERCICIOS POO\GestionE-Learning\UI\obj\Debug\UI.Form1.resources
+C:\Users\el9zF\source\repos\faacu12\csharp\ELEARNING\GestionE-Learning\UI\bin\Debug\UI.exe.config
+C:\Users\el9zF\source\repos\faacu12\csharp\ELEARNING\GestionE-Learning\UI\bin\Debug\UI.exe
+C:\Users\el9zF\source\repos\faacu12\csharp\ELEARNING\GestionE-Learning\UI\bin\Debug\UI.pdb
+C:\Users\el9zF\source\repos\faacu12\csharp\ELEARNING\GestionE-Learning\UI\bin\Debug\BE.dll
+C:\Users\el9zF\source\repos\faacu12\csharp\ELEARNING\GestionE-Learning\UI\bin\Debug\BLL.dll
+C:\Users\el9zF\source\repos\faacu12\csharp\ELEARNING\GestionE-Learning\UI\bin\Debug\DAL.dll
+C:\Users\el9zF\source\repos\faacu12\csharp\ELEARNING\GestionE-Learning\UI\bin\Debug\BE.pdb
+C:\Users\el9zF\source\repos\faacu12\csharp\ELEARNING\GestionE-Learning\UI\bin\Debug\BLL.pdb
+C:\Users\el9zF\source\repos\faacu12\csharp\ELEARNING\GestionE-Learning\UI\bin\Debug\DAL.pdb
+C:\Users\el9zF\source\repos\faacu12\csharp\ELEARNING\GestionE-Learning\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\el9zF\source\repos\faacu12\csharp\ELEARNING\GestionE-Learning\UI\obj\Debug\UI.exe.config
+C:\Users\el9zF\source\repos\faacu12\csharp\ELEARNING\GestionE-Learning\UI\obj\Debug\UI.CREATE.resources
+C:\Users\el9zF\source\repos\faacu12\csharp\ELEARNING\GestionE-Learning\UI\obj\Debug\UI.Form1.resources
+C:\Users\el9zF\source\repos\faacu12\csharp\ELEARNING\GestionE-Learning\UI\obj\Debug\UI.LOGIN.resources
+C:\Users\el9zF\source\repos\faacu12\csharp\ELEARNING\GestionE-Learning\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\el9zF\source\repos\faacu12\csharp\ELEARNING\GestionE-Learning\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\el9zF\source\repos\faacu12\csharp\ELEARNING\GestionE-Learning\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\el9zF\source\repos\faacu12\csharp\ELEARNING\GestionE-Learning\UI\obj\Debug\UI.csproj.Up2Date
+C:\Users\el9zF\source\repos\faacu12\csharp\ELEARNING\GestionE-Learning\UI\obj\Debug\UI.exe
+C:\Users\el9zF\source\repos\faacu12\csharp\ELEARNING\GestionE-Learning\UI\obj\Debug\UI.pdb
