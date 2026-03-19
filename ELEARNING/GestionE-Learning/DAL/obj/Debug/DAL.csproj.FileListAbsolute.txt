@@ -1,0 +1,9 @@
+F:\EJERCICIOS POO\GestionE-Learning\DAL\bin\Debug\DAL.dll
+F:\EJERCICIOS POO\GestionE-Learning\DAL\bin\Debug\DAL.pdb
+F:\EJERCICIOS POO\GestionE-Learning\DAL\bin\Debug\BE.dll
+F:\EJERCICIOS POO\GestionE-Learning\DAL\bin\Debug\BE.pdb
+F:\EJERCICIOS POO\GestionE-Learning\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+F:\EJERCICIOS POO\GestionE-Learning\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\EJERCICIOS POO\GestionE-Learning\DAL\obj\Debug\DAL.csproj.Up2Date
+F:\EJERCICIOS POO\GestionE-Learning\DAL\obj\Debug\DAL.dll
+F:\EJERCICIOS POO\GestionE-Learning\DAL\obj\Debug\DAL.pdb
